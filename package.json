@@ -1,0 +1,23 @@
+{
+  "name": "remote-debug-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogoday/remote-debug-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogoday/remote-debug-server/issues"
+  },
+  "homepage": "https://github.com/gogoday/remote-debug-server#readme",
+  "dependencies": {
+    "socket.io": "^1.7.3",
+    "socket.io-stream": "^0.9.1"
+  }
+}
